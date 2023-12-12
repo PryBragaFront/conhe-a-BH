@@ -1,4 +1,4 @@
-# conhe-a-BH
+# conheça-BH
 Portal de álbuns geolocalizadas
 Conheça um pouco da minha linda cidade chamada Belo Horizonte!
 Localizada em uma região montanhosa, em 857m de altitude, com chuvas mais concentradas no verão e espaçadas no inverno,
